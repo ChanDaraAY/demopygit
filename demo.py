@@ -1,4 +1,2 @@
-print('Hello Dara New')
-print('Hello Dara New')
-print('Hello Dara New')
-print('Hello Dara New Dara Chan World')
+for i in range(20):
+    print('Hello', i)
